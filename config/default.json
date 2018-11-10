@@ -1,0 +1,11 @@
+{
+    "Mongo" : {
+        "host" : "mongodb://localhost/fascial"
+    },
+    "App" : {
+        "port" : 3000
+    },
+    "Telegram" : {
+        "token" : "700067328:AAE1IHOLHTm7Dpvm40j_gQRO_6WVRg_sM0M"
+    }
+}
