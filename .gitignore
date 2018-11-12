@@ -1,5 +1,8 @@
-/config/default.json
+config/default.json
+
 /node_modules
-file.txt
-package-lock.json
+
+./file.txt
+
+./package-lock.json
 
